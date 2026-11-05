@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-cache-and-performance-dart-mobile",
+  "capabilityKey": "liberusoftware/module-cms-cache-and-performance",
+  "presentation": "dart-mobile",
+  "package": "module_cms_cache_and_performance_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/cms/nextjs/cache-and-performance.md",
+  "presentationPlan": "projects/cms/features/cache-and-performance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
